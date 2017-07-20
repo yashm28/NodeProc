@@ -1,7 +1,6 @@
 
 #include "ReadProcesses.h"
 
-
 SIZE_T GetMemoryInfo(DWORD processID)
 {
 	HANDLE hProcess;
